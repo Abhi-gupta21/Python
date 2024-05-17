@@ -1,0 +1,5 @@
+1. Data types
+2. Numbers
+3. Operations
+4. Type conversion
+5. f-Strings
